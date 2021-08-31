@@ -1,3 +1,3 @@
 # kalkulacka
 
-##Aplikace kalkulačka psaná v jazyce C#
+Aplikace kalkulačka psaná v jazyce C#
